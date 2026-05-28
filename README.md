@@ -36,14 +36,16 @@ I architected and deployed a 4-stage automated solution within HubSpot:
 ### 1. Workflow Automation Setup
 The fully active workflow demonstrating the automation trigger, delay, and advanced branching logic:
 
-![Workflow Part 1](images/workflow-part1.png)
-![Workflow Part 2](images/workflow-part2.png)
-![Workflow Part 3](images/workflow-part3.png)
+<img width="1038" height="852" alt="workflow-part1" src="https://github.com/user-attachments/assets/296a7b37-8061-456f-858d-69e43884437a" />
+<img width="1197" height="705" alt="workflow-part2" src="https://github.com/user-attachments/assets/ec581c69-ad35-4d54-bf7b-5d81b493152a" />
+<img width="1088" height="812" alt="workflow-part3" src="https://github.com/user-attachments/assets/eb1a7fc8-9e6c-4a3d-a05c-02bb7aac298b" />
+
 
 ### 2. Campaign Performance Dashboard
 The real-time analytics hub tracking total leads generated, conversion stages, and automated email engagement metrics:
 
-![HubSpot Analytics Dashboard](images/dashboard.png)
+<img width="1783" height="773" alt="dashboard" src="https://github.com/user-attachments/assets/d9cab1af-8811-4dcd-b5b4-79a326a53a66" />
+
 
 ---
 
